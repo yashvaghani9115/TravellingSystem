@@ -13,8 +13,8 @@
                 <h4 class="card-title">Dashboard</h4>
                 <h5>Users<div style="display:inline;margin-left:90%">{{$users}}</div></h5>
                 <h5>Citys<div style="display:inline;margin-left:90.7%">{{$citys}}</div></h5>
-                <h5>Packages<div style="display:inline;margin-left:85.5%">{{$package}}</div></h5>
-                <h5>Total Number Of Booking<div style="display:inline;margin-left:68%">{{$bookpackage}}</div></h5>
+                <h5>Packages<div style="display:inline;margin-left:86.3%">{{$package}}</div></h5>
+                <h5>Total Number Of Booking<div style="display:inline;margin-left:71.5%">{{$bookpackage}}</div></h5>
               </div>
           </div>
         </div>
